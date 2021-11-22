@@ -7,5 +7,5 @@
 
 <p align="center">
   <a href="https://github.com/dvdria2"><img src="https://github-readme-stats.vercel.app/api?username=dvdria2&show_icons=true&hide=stars&count_private=true" alt="My GitHub Stats" /></a>
-  <a href="https://github.com/dvdria2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvdria2&layout=compact&show_icons=true&count_private=true" alt="My Languages" /></a>
+  <a href="https://github.com/dvdria2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvdria2&layout=compact&show_icons=true&count_private=truetheme=radical" alt="My Languages" /></a>
 </p>
